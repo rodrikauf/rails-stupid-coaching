@@ -13,3 +13,24 @@
  *= require_tree .
  *= require_self
  */
+
+body {
+  background-image: url("https://www.canstockphoto.com/zoom/?height=398.666666&width=598.666666&id=76199305&_ts=1684751383951&scale=2.6726057936220555&left=541&top=175");
+  background-size: cover;
+}
+
+.coach-begin{
+  background-color: rgba(255, 255, 255, 0.556);
+}
+
+ .question {
+  padding: 10px;
+  margin: 30px;
+  background-color: rgba(255, 255, 255, 0.556);
+ }
+
+ .answer{
+  background-color: rgba(255, 255, 23, 0.355);
+  padding: 20px;
+  margin: 30px;
+ }
